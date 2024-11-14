@@ -28,16 +28,13 @@ To get started locally, follow these steps:
    git clone https://github.com/cyber-traveller/fake-store-ecommerce.git
 Navigate to the project directory:
 
-  ```bash
+
 cd fake-store-ecommerce
 Install dependencies:
-
-  ```bash
 
 npm install
 Start the development server:
 
- ```bash
  npm run dev
 
 The application will run on http://localhost:5173.
@@ -45,7 +42,6 @@ The application will run on http://localhost:5173.
 To create a production build:
 
 
- ```bash
 npm run build
 Deployment
 This project is deployed on Netlify. For deploying your own version, follow these steps:
